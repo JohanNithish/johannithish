@@ -12553,7 +12553,7 @@ header.header-full-width.header--sticky.sticky {
   }
 }
 .banner-one-main-wrapper .banner-right-content img {
-  max-width: 600px;
+  max-width: 400px;
   height: auto;
   object-fit: contain;
   margin-right: 70px;
@@ -17664,7 +17664,7 @@ section.clients-testimonial-area {
   }
 }
 .banner-one-main-wrapper .banner-right-content img {
-  max-width: 600px;
+  max-width: 400px;
   height: auto;
   object-fit: contain;
   margin-right: 70px;
