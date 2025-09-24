@@ -12644,7 +12644,8 @@ header.header-full-width.header--sticky.sticky {
   left: 0px;
   font-size: 48px;
   line-height: 1.2;
-  -webkit-text-stroke: 1px var(--color-heading);
+  -webkit-text-stroke: 1px #636363;
+  mix-blend-mode: color-dodge;
   color: transparent;
   font-family: var(--font-primary);
   font-weight: 700;
@@ -17755,7 +17756,8 @@ section.clients-testimonial-area {
   left: 0px;
   font-size: 48px;
   line-height: 1.2;
-  -webkit-text-stroke: 1px var(--color-heading);
+  -webkit-text-stroke: 1px #636363;
+  mix-blend-mode: color-dodge;
   color: transparent;
   font-family: var(--font-primary);
   font-weight: 700;
